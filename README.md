@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+#  CNN classifier for blood smear images (infected with malaria or uninfected with malaria)
+
+
 <!--
 **danaalsharif/Danaalsharif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
