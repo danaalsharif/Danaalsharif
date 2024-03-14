@@ -120,3 +120,5 @@ create table Works_on(
 TID Number(5) constraint wrk1 References Task(TID),
 MID Number(5) constraint wrk2 References Team_Member(MID),
 constraint wrk3 Primary Key(TID,MID));
+
+commit;
