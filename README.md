@@ -1,5 +1,5 @@
 * CNN Malaria infection classifier for blood smear images [ [malaria_cnn.py](https://github.com/danaalsharif/Danaalsharif/blob/main/malaria_cnn.py) ]
-* Architectural project management database system [ [projectmanagement.sql](https://github.com/danaalsharif/Danaalsharif/blob/main/projectmanagement.sql) ]
+* Architectural project management database system [ [projectmanagement.sql](https://github.com/danaalsharif/Danaalsharif/blob/main/projectmanagement.sql) ] [ [description](project_management.md) ]
 
 
 
