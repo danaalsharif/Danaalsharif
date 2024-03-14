@@ -1,6 +1,4 @@
-### Hi there 👋
-
-#  CNN classifier for blood smear images (infected with malaria or uninfected with malaria)
+CNN classifier for blood smear images (infected with malaria or uninfected with malaria)
 
 
 <!--
