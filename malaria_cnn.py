@@ -1,3 +1,5 @@
+# dataset url [ https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria/data ]
+
 import os
 from PIL import Image
 import numpy as np
