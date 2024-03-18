@@ -1,7 +1,4 @@
 * CNN Malaria infection classifier for blood smear images [ [malaria_cnn.py](https://github.com/danaalsharif/Danaalsharif/blob/main/malaria_cnn.py) ]
-* Architectural project management database system [ [projectmanagement.sql](https://github.com/danaalsharif/Danaalsharif/blob/main/project_management.sql) ] [ [description](project_management.md) ]
-
-
 
 <!--
 **danaalsharif/Danaalsharif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
