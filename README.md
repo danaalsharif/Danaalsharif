@@ -1,4 +1,4 @@
-* CNN Malaria infection classifier for blood smear images [ [malaria_cnn.py](https://github.com/danaalsharif/Danaalsharif/blob/main/malaria_cnn.py) ]
+
 
 <!--
 **danaalsharif/Danaalsharif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
